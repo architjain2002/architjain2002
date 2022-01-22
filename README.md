@@ -1,7 +1,7 @@
 <h1 align="center">Hello coders 👋, I'm Archit jain</h1>
 <h3 align="center">A passionate and an enthusiast full stack web developer from India.</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Reactjs**
+- 🔭 I’m currently working on **Deep Learning in cnn and Reactjs/redux**
 
 - 👯 I’m looking to collaborate on **hackathons or any project development ideas.**
 
