@@ -1,4 +1,4 @@
-<h1 align="center">Hello coders 👋, I'm Archit jain</h1>
+<h1 align="center">Hello World 👋, I'm Archit jain</h1>
 <h3 align="center">A passionate and an enthusiast full stack web developer from India.</h3>
 
 - 🔭 I’m currently working on **Deep Learning in cnn and Reactjs/redux**
